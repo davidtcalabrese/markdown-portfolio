@@ -5,3 +5,4 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
 * _Resilient_
 * __persistent__
 * **dedicated**
+**bolded content**
